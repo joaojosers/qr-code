@@ -16,9 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Building a qr-code component
 
 ### Screenshot
-
-![](./![Screenshot 2024-06-04 at 10-40-27 
-
+![](./Screenshot 2024-06-04 at 10-40-27)
 
 ### Links
 
